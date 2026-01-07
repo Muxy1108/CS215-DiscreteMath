@@ -9,7 +9,7 @@ $$¬p, p ∨ q, p ∧ q, p ⊕ q, p → q, p ↔ q$$
 ***De Morgan’s laws, communtative laws, distributive laws, ...***     
 
 - Predicate logic  
-contains ***variables ***    
+contains ***variables***    
 
 - Quantified statements  
 ***universal, existential, equivalence***   
