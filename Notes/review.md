@@ -100,7 +100,6 @@ to derive P(n).
 - sum rule and product rule 
 - Inclusion-Exclusion Principle 
 - Pigeonhole Principle
-- 
 - ***Theorem***    
   - If N is a positive integer and k is an integer with $1 ≤ k ≤ n$, then there are  
 $$P(n, k) = n(n − 1)(n − 2)· · ·(n − k + 1)$$
